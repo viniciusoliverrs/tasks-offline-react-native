@@ -1,4 +1,4 @@
-#Mon Oct 05 21:09:12 BRT 2020
-base.0=E\:\\curso-react-native\\tasks\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sat Nov 07 15:23:25 BRT 2020
+base.0=C\:\\Users\\Vinicius\\Documents\\tasks-offline-react-native\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

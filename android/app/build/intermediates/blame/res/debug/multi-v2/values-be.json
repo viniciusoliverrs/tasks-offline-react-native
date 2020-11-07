@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\curso-react-native\\tasks\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+            "outputFile": "C:\\Users\\Vinicius\\Documents\\tasks-offline-react-native\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Vinicius\\.gradle\\caches\\transforms-2\\files-2.1\\5bc9be551febe2e70237e4cca6b70f73\\res\\values-be\\values-be.xml",
